@@ -1453,6 +1453,20 @@ section.lazy-placeholder:after {
     -webkit-flex: 0 0 20%;
   }
 }
+.cid-tspmKYG51H {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-tspmKYG51H .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-tspmKYG51H .video-block {
+    width: 100% !important;
+  }
+}
 .cid-tslLLeGn7k {
   padding-top: 90px;
   padding-bottom: 90px;
