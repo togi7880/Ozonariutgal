@@ -734,6 +734,9 @@
             },
             ".mbr-overlay ~ .container-slide": {
               "z-index": "auto"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           },
           "_name": "slider1",
@@ -755,7 +758,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/adobestock-121003852-2021-09-15-210622-cqai-1600x700.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
@@ -771,7 +774,7 @@
                 "contentAlign": "center",
                 "text": "Үнэт зүйл – Бид хэрэглэгчиддээ  бодит үр дүнг амлана. ",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Үйлчилгээ</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Холбоо барих</a>",
-                "overlayOpacity": "0.4"
+                "overlayOpacity": "0"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/water-drop-1-1200x800.jpg",
@@ -786,15 +789,16 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "Ариутгал халдваргүйтлийн үйлчилгээ",
+                "textTitle": "Озон ариутгалын үйлчилгээ",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Эрхэм зорилго – Технологийн дэвшлийг Монголдоо",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Дэлгэрэнгүй&gt;</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Холбоо барих</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Дэлгэрэнгүй&gt;</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Холбоо барих</a>",
+                "overlayOpacity": "0"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ozone-solubility2-543x300.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -810,7 +814,7 @@
                 "contentAlign": "left",
                 "text": "Эрхэм зорилго – Технологийн дэвшлийг Монголдоо",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.8"
+                "overlayOpacity": "0"
               }
             ]
           }

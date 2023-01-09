@@ -1324,6 +1324,9 @@ section.lazy-placeholder:after {
 .cid-tslCpD7MIf .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-tslCpD7MIf P {
+  color: #ffffff;
+}
 .cid-tosSuOsvcf {
   padding-top: 60px;
   padding-bottom: 30px;
