@@ -64,12 +64,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Нүүр хуудас - Эм эмнэлгийн хэрэгсэл тоног төөхөрөмж ",
-        "meta_descr": "Эм эмнэлгийн хэрэгсэл тоног төөхөрөмж захиалга худалдаа, эрүүл мэндийн бүтээгдэхүүн худалдаа тоног төхөөрөмж суурилуулалт засвар үйлчилгээ үзүүлж байна. ",
+        "title": "Нүүр хуудас - Озон ариутгалын үйлчилгээ ozon ariutgal ozonariutgal.mn",
+        "meta_descr": "Озон ариутгал үйлчилгээ үзүүлж байна. +976 88884389\n              +976 88060094 Ариутгалын үйлчилгээ ozon ariutgaliin uilchilgee ozon ariutgal",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/untitled-395x188.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/318777635_5336210783149547_7099648680795908057_n-900x820.png"
       },
       "components": [
         {
