@@ -752,8 +752,8 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": "false",
-            "slides__autoplayInterval": 4000,
+            "slides__autoplay": "true",
+            "slides__autoplayInterval": "3000",
             "slides__showBullets": true,
             "slides": [
               {
@@ -774,30 +774,10 @@
                 "contentAlign": "center",
                 "text": "Үнэт зүйл – Бид хэрэглэгчиддээ  бодит үр дүнг амлана. ",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Үйлчилгээ</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Холбоо барих</a>",
-                "overlayOpacity": "0"
+                "overlayOpacity": "0.3"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/ozone-solubility2-543x300.png",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "alt": "",
-                "title": "",
-                "textTitle": "Озон ариутгалын үйлчилгээ",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Эрхэм зорилго – Технологийн дэвшлийг Монголдоо",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/water-drop-1-1200x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/brandbookb1-2000x1333.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -814,6 +794,26 @@
                 "contentAlign": "right",
                 "text": "Эрхэм зорилго – Технологийн дэвшлийг Монголдоо",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Дэлгэрэнгүй&gt;</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Холбоо барих</a>",
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dark-green-light-green-white-corporate-geometric-company-internal-deck-business-presentation-1920x1080.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0"
               }
             ]
